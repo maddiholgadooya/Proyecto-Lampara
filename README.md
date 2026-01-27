@@ -23,3 +23,5 @@
 - Sensor de temperatura y humedad del ambiente (display)
 - Reloj (display)
 - Ruido: Si hay exceso de ruido que te avise
+  
+- (Poner un pulsador que mueva el cabezal de la lampara)
