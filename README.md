@@ -2,12 +2,14 @@
 
 Proyecto para la asignatura **Tecnologías Industriales**.
 
+![Lámpara inteligente](https://www.notebookcheck.org/fileadmin/Notebooks/News/_nc4/Xiaomi-Mijia-Desktop-Study-Lamp-Pro-header.jpeg)
+
 ## Entregables
 
 1. **Documentación completa del proyecto**
 2. **Esquemas del circuito electrónico**
    - Conexión de sensores, LEDs, Arduino, etc.
-   - Realizados en Tinkercad
+   - Realizados en KiCad
    - Entregar la vista esquemática del circuito
 3. **Archivos CAD**
    - Diseño 3D de la lámpara
@@ -18,6 +20,7 @@ Proyecto para la asignatura **Tecnologías Industriales**.
 
 - Botón para encender y apagar la lámpara.
 - Vamos a tener dos tipos de luces (una luz blanca y otra luz cálida) --> Según la hora del día se encenderá una o la otra.
+- Regulador de intensidad de las luces
 - Sensor de temperatura y humedad del ambiente (display)
-- Reloj
-- Regulador de intensidad de luz
+- Reloj (display)
+- Ruido: Si hay exceso de ruido que te avise
