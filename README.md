@@ -1,9 +1,8 @@
 # PROYECTO LÁMPARA
-
-Proyecto para la asignatura **Tecnologías Industriales**.
-
-![Lámpara inteligente](https://www.notebookcheck.org/fileadmin/Notebooks/News/_nc4/Xiaomi-Mijia-Desktop-Study-Lamp-Pro-header.jpeg)
-
+<img src="https://www.notebookcheck.org/fileadmin/Notebooks/News/_nc4/Xiaomi-Mijia-Desktop-Study-Lamp-Pro-header.jpeg" 
+     alt="Lámpara inteligente" 
+     width="300">
+     
 ## Entregables
 
 1. **Documentación completa del proyecto**
