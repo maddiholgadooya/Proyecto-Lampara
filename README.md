@@ -21,6 +21,6 @@
 - Vamos a tener dos tipos de luces (una luz blanca y otra luz cálida) --> Según la hora del día se encenderá una o la otra.
 - Regulador de intensidad de las luces
 - Sensor de temperatura y humedad del ambiente (display)
-- Reloj (display)
+- Reloj (display) --> usermods>analog_clock>analog_clock.cpp
 - Ruido: Si hay exceso de ruido que te avise
 - (Poner un pulsador que mueva el cabezal de la lampara)
