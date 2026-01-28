@@ -2,7 +2,6 @@
 <img src="https://www.notebookcheck.org/fileadmin/Notebooks/News/_nc4/Xiaomi-Mijia-Desktop-Study-Lamp-Pro-header.jpeg" 
      alt="Lámpara inteligente" 
      width="300">
-![Modelo 3D](images/Captura de pantalla 2026-01-28 161322.png)
      
 ## Entregables
 
