@@ -16,7 +16,7 @@
 4. **Código fuente de la aplicación web de control remoto**
    - Código de control de la lámpara
 
-## Lámpara
+## Funciones de la lámpara
 
 - Botón para encender y apagar la lámpara.
 - Vamos a tener dos tipos de luces (una luz blanca y otra luz cálida) --> Según la hora del día se encenderá una o la otra.
