@@ -45,7 +45,11 @@ Además del sistema de movimiento, la lámpara puede:
 - Regular la intensidad de la luz con un potenciómetro o mediante la aplicación móvil.
 - Cambiar la calidez de la luz mediante la aplicación móvil
 
-IMAGEN MENU APP
+En la siguiente imagen se puede ver el menú de la aplicación móvil donde a la izquierda aparecen el botón de encendido/apagado y los reguladores de intensidad y calidez.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9ef58ab0-02b2-4010-8a01-addbd70095e0" width="700"/>
+</p
 
 Dejando a un lado lo llevado a cabo, tal y como se ha mencionado en la introducción, se han ideado otras funcionalidades que pueden complementar la lámpara convirtiéndola en una mejor herramienta para el teletrabajo, pero no han podido ser llevadas a cabo por falta de tiempo:
 
