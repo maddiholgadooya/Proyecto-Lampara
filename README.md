@@ -12,6 +12,8 @@
    - Código de control de la lámpara
 
 ## 1. Propósito
+Este proyecto tiene como objetivo diseñar y programar el funcionamiento de una lámpara inteligente con control remoto mediante una aplicación para el móvil, la cual debe tener funcionalidades que mejoren el entorno de teletrabajo de una persona. Para eso el proyecto ha sido dividido en varios apartados: el modelado 3D y sus funcionalidades, el circuito electrónico y su programación.
+
 
 ## 2. Modelado 3D y funcionalidades
 Esta lampara inteligente y sensorizada para el teletrabajo tiene varias funciones que la diferencian de otras propuestas del mercado. Teniendo de referencia en todo momento el modelo 3D realizado, se desarrollarán las funcionalidades implementadas e ideadas. Estas últimas, aunque han sido definidas en su totalidad, no han podido ser implementadas por las limitaciones del proyecto en lo referente al tiempo.
@@ -34,7 +36,7 @@ Por otra parte, gracias al sistema de posicionamiento mediante servomotor, el br
   <img src="https://github.com/user-attachments/assets/1f628f4f-b97f-4c78-a526-d66ddaad3690" alt="Imagen5" />
 </p>
 
-Tanto el sistema de movimiento, como el encendido y apagado de la lámpara se basan en un controlador WLED, la cual se conecta a una aplicación móvil que permite otras funcionalidades ideadas y que se van a detallar a continuación.
+Tanto el sistema de movimiento, como el encendido y apagado de la luz y su regulación dependen del controlador WLED, el cual se conecta a una aplicación móvil tal y como se ha intoducido anteriormente.
 
 Dejando a un lado lo llevado a cabo, tal y como se ha mencionado en la introducción, se han ideado otras funcionalidades que pueden complementar la lámpara convirtiéndola en una mejor herramienta para el teletrabajo, pero no han podido ser llevadas a cabo por falta de tiempo:
 
