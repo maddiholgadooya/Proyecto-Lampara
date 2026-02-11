@@ -18,9 +18,6 @@ Esta lampara inteligente y sensorizada para el teletrabajo tiene varias funcione
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fe32f820-4d9b-4236-9429-7e004b319264" alt="Imagen1" />
-</p>
-
-<p align="center">
   <img src="https://github.com/user-attachments/assets/90809cb9-c4c7-46f4-9829-ef1d2f7366e1" alt="Imagen2" />
 </p>
 
@@ -34,12 +31,8 @@ Por otra parte, gracias al sistema de posicionamiento mediante servomotor, el br
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1e22d15f-4ce9-4e55-8047-e19c7c826bd6" alt="Imagen4" />
-</p>
-
-<p align="center">
   <img src="https://github.com/user-attachments/assets/1f628f4f-b97f-4c78-a526-d66ddaad3690" alt="Imagen5" />
 </p>
-
 
 Tanto el sistema de movimiento, como el encendido y apagado de la lámpara se basan en un controlador WLED, la cual se conecta a una aplicación móvil que permite otras funcionalidades ideadas y que se van a detallar a continuación.
 
