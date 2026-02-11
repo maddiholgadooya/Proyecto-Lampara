@@ -88,7 +88,7 @@ Dicho circuito contiene los siguientes elementos:
 |                          | C10                                | C_0805_2012Metric                                   | 1        | 10µF                           |
 | Interruptor              | SW2                                | R-668048                                            | 1        | SW_MEC_5G                      |
 
-El link con el BOM donde se muestra  la posición exacta de cada elemento en el cirucito puede encontrarse adjuntado a este repositorio como BOM.html.
+El link con el BOM donde se muestra  la posición exacta de cada elemento en el cirucito puede encontrarse adjuntado a este repositorio como ibom.html.
 
 ## 4. Código fuente de la aplicación web de control remoto
 Tal y como se ha introducido previamente, la lámpara viene acompañada de una aplicación móvil con varias funciones integradas. La programación que ha permitido dicho funcionamiento se encuentra adjuntada en el repositorio con el nombre PROGRAMACIÓN.
