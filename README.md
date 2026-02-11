@@ -15,7 +15,7 @@ Este proyecto tiene como objetivo diseñar y programar el funcionamiento de una 
 
 
 ## 2. Modelado 3D y funcionalidades
-Esta lampara inteligente y sensorizada para el teletrabajo tiene varias funciones que la diferencian de otras propuestas del mercado. Teniendo de referencia en todo momento el modelo 3D realizado (adjuntado como *CAD.zip*, se desarrollarán las funcionalidades implementadas e ideadas. Estas últimas, aunque han sido definidas en su totalidad, no han podido ser implementadas por las limitaciones del proyecto en lo referente al tiempo.
+Esta lampara inteligente y sensorizada para el teletrabajo tiene varias funciones que la diferencian de otras propuestas del mercado. Teniendo de referencia en todo momento el modelo 3D realizado (adjuntado como *CAD.zip*), se desarrollarán las funcionalidades implementadas e ideadas. Estas últimas, aunque han sido definidas en su totalidad, no han podido ser implementadas por las limitaciones del proyecto en lo referente al tiempo.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fe32f820-4d9b-4236-9429-7e004b319264" alt="Imagen1" />
