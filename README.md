@@ -49,3 +49,39 @@ Dejando a un lado lo llevado a cabo, tal y como se ha mencionado en la introducc
 - Sensor y display de temperatura, humedad y hora
 - Sensor de exceso de ruido
 
+## 3. Circuito electrónico
+A continuación, se puede observar el circuito desarrollado junto con su respectivo esquema electrónico:
+
+IMAGEN CIRCUITO
+
+ESQUEMA ELECTRÓNICO
+
+Dicho circuito contiene los siguientes elementos:
+| Elemento                 | Identificador                     | Modelo                                              | Cantidad | Capacidad                     |
+|--------------------------|------------------------------------|-----------------------------------------------------|----------|--------------------------------|
+| Resistencia              | R10,R11,R7,R9,R12,R13,R14          | R_0402_1005Metric                                   | 7        | 10K                            |
+|                          | R15,R3,R8                          | R_0402_1005Metric                                   | 3        | 1K                             |
+|                          | R6                                 | R_0402_1005Metric                                   | 1        | 10kΩ                           |
+|                          | R1                                 | R_0402_1005Metric                                   | 1        | TBD                            |
+| Potenciómetro            | RV3                                | R_0402_1005Metric                                   | 1        | Varistor                       |
+| Transistor               | Q2,Q3,Q1,Q4                        | SOT-23                                              | 4        | Q_NMOS_GSD                     |
+| Conector                 | J5                                 | PinHeader_1x09_P2.54mm_Vertical                     | 1        | Conn_01x09                     |
+|                          | J8                                 | PinHeader_1x03_P2.54mm_Vertical                     | 1        | Conn_01x03                     |
+|                          | J7                                 | PinHeader_2x03_P2.54mm_Horizontal                   | 1        | Conn_02x03                     |
+|                          | J1                                 | PinHeader_1x08_P2.54mm_Vertical                     | 1        | Conn_01x08                     |
+|                          | J2                                 | USB_C_Receptacle_G-Switch_GT-USB-7010ASV            | 1        | USB_C_Receptacle_USB2.0        |
+|                          | JP4,JP3,JP1,JP2                    | SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm      | 4        | Jumper                         |
+|                          | J4                                 | TestPoint_Pad_3.0x3.0mm                             | 1        | Conn_01x01                     |
+| Inductor de potencia     | L2                                 | L_Abracon_ASPI-0425                                 | 1        | TBD                            |
+| Diodo                    | D1                                 | D_SOD-128                                           | 1        | D_Small                        |
+| Circuitos integrados     | U2                                 | SOT-23-5                                            | 1        | MIC5219-3.3YM5                 |
+|                          | U5                                 | TSOT-23-6                                           | 1        | AP63205WU                      |
+|                          | U1                                 | ESP32-C3-MINI-1                                     | 1        | ESP32-C3-MINI-1                |
+|                          | U3                                 | SOIC-10_3.9x4.9mm_P1mm                              | 1        | ~                              |
+| Condensador              | C13,C8,C1,C11                      | C_0402_1005Metric                                   | 4        | 1µF                            |
+|                          | C15                                | C_0402_1005Metric                                   | 1        | 100nF                          |
+|                          | C17,C16                            | C_0805_2012Metric                                   | 2        | 22µF                           |
+|                          | C10                                | C_0805_2012Metric                                   | 1        | 10µF                           |
+| Interruptor              | SW2                                | R-668048                                            | 1        | SW_MEC_5G                      |
+
+
