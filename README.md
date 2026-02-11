@@ -62,7 +62,7 @@ A continuación, se puede observar el circuito desarrollado junto con su respect
 IMAGEN CIRCUITO
 
 <p align="center">
-  <img src="https://github.com/user-attachments/files/25238362/Esquema_electrico.pdf" width="700"/>
+  <img src="https://github.com/user-attachments/assets/7cf67c3f-2cfa-47bf-8040-860256264183" width="700"/>
 </p
 
 Dicho circuito contiene los siguientes elementos:
