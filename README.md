@@ -36,12 +36,14 @@ Por otra parte, gracias al sistema de posicionamiento mediante servomotor, el br
   <img src="https://github.com/user-attachments/assets/1f628f4f-b97f-4c78-a526-d66ddaad3690" alt="Imagen5" />
 </p>
 
-Tanto el sistema de movimiento, como el encendido y apagado de la luz y su regulación dependen del controlador WLED, el cual se conecta a una aplicación móvil tal y como se ha intoducido anteriormente.
+Además del sistema de movimiento, hay otras funciones que se desempeñan mediante la aplicación móvil: 
+- Encendido/Apagado de la luz
+- Regulación de la intensidad de la luz
+- Calidez de la luz
 
 Dejando a un lado lo llevado a cabo, tal y como se ha mencionado en la introducción, se han ideado otras funcionalidades que pueden complementar la lámpara convirtiéndola en una mejor herramienta para el teletrabajo, pero no han podido ser llevadas a cabo por falta de tiempo:
 
 - Variación de la calidez de la luz dependiendo de la hora
-- Regulador de la intensidad de la luz
 - Sensor y display de temperatura, humedad y hora
 - Sensor de exceso de ruido
 
