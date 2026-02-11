@@ -57,13 +57,9 @@ Dejando a un lado lo llevado a cabo, tal y como se ha mencionado en la introducc
 - Sensor de exceso de ruido
 
 ## 3. Circuito electrónico
-A continuación, se puede observar el circuito desarrollado junto con su respectivo esquema electrónico:
+A continuación, se puede observar el circuito desarrollado junto con su respectivo esquema electrónico, el cual se ha adjuntado al repositorio como *Esquema_electrico.pdf*:
 
 IMAGEN CIRCUITO
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/7cf67c3f-2cfa-47bf-8040-860256264183" width="700"/>
-</p
 
 Dicho circuito contiene los siguientes elementos:
 | Elemento                 | Identificador                     | Modelo                                              | Cantidad | Capacidad                     |
