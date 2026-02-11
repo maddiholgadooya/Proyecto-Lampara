@@ -59,7 +59,10 @@ Dejando a un lado lo llevado a cabo, tal y como se ha mencionado en la introducc
 ## 3. Circuito electrónico
 A continuación, se puede observar el circuito desarrollado junto con su respectivo esquema electrónico, el cual se ha adjuntado al repositorio como *Esquema_electrico.pdf*:
 
-IMAGEN CIRCUITO
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fef71daa-3f8d-4ddb-a063-385bc724c51d" width="300"/>
+ <img src="https://github.com/user-attachments/assets/2fff0d27-bd43-495d-b8d8-607e153d54cb" width="300"/>
+</p
 
 Dicho circuito contiene los siguientes elementos:
 | Elemento                 | Identificador                     | Modelo                                              | Cantidad | Capacidad                     |
