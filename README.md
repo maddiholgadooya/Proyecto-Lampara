@@ -42,7 +42,7 @@ Por otra parte, gracias al sistema de posicionamiento mediante servomotor, el br
 
 Además del sistema de movimiento, la lámpara puede:
 - Encender y apagarse mediante un pulsador o mediante la aplicación móvil. 
-- Regular la intensidad de la luz con un "rodillito" o mediante la aplicación móvil.
+- Regular la intensidad de la luz con un potenciómetro o mediante la aplicación móvil.
 - Cambiar la calidez de la luz mediante la aplicación móvil
 
 IMAGEN MENU APP
@@ -88,7 +88,7 @@ Dicho circuito contiene los siguientes elementos:
 |                          | C10                                | C_0805_2012Metric                                   | 1        | 10µF                           |
 | Interruptor              | SW2                                | R-668048                                            | 1        | SW_MEC_5G                      |
 
-El link con el BOM donde se muestra  la posición exacta de cada elemento en el cirucito puede encontrarse adjuntado a este repositorio como ibom.html.
+El link con el BOM donde se muestra  la posición exacta de cada elemento en el cirucito puede encontrarse adjuntado a este repositorio como *ibom.html*.
 
 ## 4. Código fuente de la aplicación web de control remoto
-Tal y como se ha introducido previamente, la lámpara viene acompañada de una aplicación móvil con varias funciones integradas. La programación que ha permitido dicho funcionamiento se encuentra adjuntada en el repositorio con el nombre PROGRAMACIÓN.
+Tal y como se ha introducido previamente, la lámpara viene acompañada de una aplicación móvil con varias funciones integradas. La programación que ha permitido dicho funcionamiento se encuentra adjuntada en el repositorio con el nombre *PROGRAMACIÓN*.
