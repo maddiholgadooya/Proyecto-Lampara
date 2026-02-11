@@ -61,7 +61,9 @@ A continuación, se puede observar el circuito desarrollado junto con su respect
 
 IMAGEN CIRCUITO
 
-ESQUEMA ELECTRÓNICO
+<p align="center">
+  <img src="https://github.com/user-attachments/files/25238362/Esquema_electrico.pdf" width="700"/>
+</p
 
 Dicho circuito contiene los siguientes elementos:
 | Elemento                 | Identificador                     | Modelo                                              | Cantidad | Capacidad                     |
