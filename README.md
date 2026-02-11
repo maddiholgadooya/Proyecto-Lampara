@@ -5,8 +5,6 @@
 1. **Propósito**
 2. **Modelado 3D y funcionalidades** 
 3. **Circuito electrónico**
-   - Conexión de sensores, LEDs, Arduino, etc.
-   - Entregar la vista esquemática del circuito
 4. **Código fuente de la aplicación web de control remoto**
    - Código de control de la lámpara
 
