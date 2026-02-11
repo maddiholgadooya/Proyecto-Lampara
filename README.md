@@ -36,6 +36,10 @@ Por otra parte, gracias al sistema de posicionamiento mediante servomotor, el br
   <img src="https://github.com/user-attachments/assets/1f628f4f-b97f-4c78-a526-d66ddaad3690" alt="Imagen5" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c62ce349-2d69-43ab-9eb6-4903ad6cb75c" width="700"/>
+</p>
+
 Además del sistema de movimiento, la lámpara puede:
 - Encender y apagarse mediante un pulsador o mediante la aplicación móvil. 
 - Regular la intensidad de la luz con un "rodillito" o mediante la aplicación móvil.
