@@ -6,7 +6,6 @@
 2. **Modelado 3D y funcionalidades** 
 3. **Circuito electrónico**
 4. **Código fuente de la aplicación web de control remoto**
-   - Código de control de la lámpara
 
 ## 1. Propósito
 Este proyecto tiene como objetivo diseñar y programar el funcionamiento de una lámpara inteligente con control remoto mediante una aplicación para el móvil, la cual debe tener funcionalidades que mejoren el entorno de teletrabajo de una persona. Para eso el proyecto ha sido dividido en varios apartados: el modelado 3D y sus funcionalidades, el circuito electrónico y su programación.
