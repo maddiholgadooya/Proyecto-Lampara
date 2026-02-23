@@ -94,3 +94,10 @@ El link con el BOM donde se muestra  la posición exacta de cada elemento en el 
 
 ## 4. Código fuente de la aplicación web de control remoto
 Tal y como se ha introducido previamente, la lámpara viene acompañada de una aplicación móvil con varias funciones integradas. La programación que ha permitido dicho funcionamiento se encuentra adjuntada en el repositorio con el nombre *PROGRAMACIÓN*.
+
+Para poder llevar a cabo dicha tarea de programar el código fuente, se ha utilizado la aplicación Visual Studio junto con el siguiente plug-in:
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c856dc54-25a7-431f-91ad-5bfa2c4476cd" width="700"/>
+</p>
+
